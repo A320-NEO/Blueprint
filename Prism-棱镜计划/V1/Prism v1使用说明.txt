@@ -1,0 +1,14 @@
+在USER一栏填入名字
+在DATE一栏填入日期
+在SUBJECT一栏填入学科(全部就填ALL)
+MPL=Minute Per Loop每循环使用时间（见番茄钟使用方法，默认为25分钟一循环）
+ID=为你的事项指定一个数字
+INPUT=你的事项名称
+
+ETC=Estimate Time To Complete预计完成时间
+EL=Estimate Loops预计循环个数
+
+L0-L3分别为计划的优先级 L0为最高
+
+TIMING计时区域（见番茄钟使用方法）
+CONCLUSION总结区域
