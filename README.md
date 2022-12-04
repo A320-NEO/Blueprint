@@ -25,3 +25,20 @@
 - PDF(打印用)
 - 文档(作为使用说明)<br/>
 同时，我也会不定时地发布Release(包含下一阶段的新版本以及稳定可用的版本),**所有发布的Release我应该全部用过**
+## 使用说明
+### 元数据区
+USER 一栏填入名字<br/>
+DATE 一栏填入日期<br/>
+SUBJECT 一栏填入学科*(全部就填ALL)*<br/>
+MPL=Minute Per Loop<br/>
+每循环使用时间（见番茄钟使用方法，默认为25分钟一循环）<br/>
+### 事件区
+ID=为你的事项指定一个数字<br/>
+INPUT=你的事项名称<br/>
+### 计划计时区
+ETC=Estimate Time To Complete预计完成时间<br/>
+EL=Estimate Loops预计循环个数<br/>
+L0-L3分别为计划的优先级 L0为最高<br/>
+TIMING计时区域（见番茄钟使用方法）<br/>
+### 总结区
+CONCLUSION总结区域
